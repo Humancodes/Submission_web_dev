@@ -37,28 +37,28 @@ Implemented a confirmation dialogue before deletion.
 ### I have Shown Cards on Dashboard from local data stored From Api as I was Doing Create Operation but i was unable to do due to lack of time.
 ### I have shown Cards fetched from API on sample projects which can be Edited ,Read,Deleted.
 
-#UI
-##Dashboard
+# UI
+## Dashboard
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/a429053d-4cde-4898-8d52-46c687cd37c9)
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/e330371f-291b-4550-8981-5d5b649263aa)
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/59300b1b-808a-4731-bee3-bf8ac9dbc1c6)
 
-##My Projects
+## My Projects
 
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/1542e1dc-92e9-4ff0-b89b-c35e6380b9ee)
 
-##Sample Projects
+## Sample Projects
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/fcf7e696-56a1-49e9-83fa-fc03230494ed)
 
-##LearnMore
+## LearnMore
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/9671d265-3144-4b48-9d1b-fe1e442cd9db)
 
-##Delete
+## Delete
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/5e4868c5-c03b-4fc9-b194-99b6441f032a)
 
-##Edit
+## Edit
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/08c806ee-89b0-4925-8023-1871382bc75e)
 
-##I had made Apps,Intro to Necleo, Help & Support, and Feedback similar template
+## I had made Apps,Intro to Necleo, Help & Support, and Feedback similar template
 ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/21b811e4-d805-495f-aa6b-11dfebc36d78)
 
