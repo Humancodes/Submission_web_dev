@@ -39,28 +39,26 @@ Implemented a confirmation dialogue before deletion.
 
 #UI
 ##Dashboard
-![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/a989b88e-4726-4918-bf80-1b7c19e95f97) ![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/ca890ff9-e34a-41a6-b728-f0d594b2e58d)
-
-![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/69c6f296-ba86-4655-8bc4-2e0be6c6dd9c)![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/502f7636-0288-4c2f-87ad-bab4f3a0376a)
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/a429053d-4cde-4898-8d52-46c687cd37c9)
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/e330371f-291b-4550-8981-5d5b649263aa)
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/59300b1b-808a-4731-bee3-bf8ac9dbc1c6)
 
 ##My Projects
-![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/44677757-f92b-4f2c-ac06-dfc79bc8de46)
+
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/1542e1dc-92e9-4ff0-b89b-c35e6380b9ee)
 
 ##Sample Projects
-![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/197efbc1-ae6a-4b1f-951a-4e1b00ad9718)
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/fcf7e696-56a1-49e9-83fa-fc03230494ed)
 
 ##LearnMore
-![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/93aa9ce9-2828-4c6b-9d5c-fb9afe480d72)
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/9671d265-3144-4b48-9d1b-fe1e442cd9db)
 
 ##Delete
-![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/ae8cf83a-11e3-4d69-afb9-b59801e8ced5)
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/5e4868c5-c03b-4fc9-b194-99b6441f032a)
 
 ##Edit
-
-![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/4fc9f83e-ab53-4e6e-b4d3-9cef66d1aae6)
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/08c806ee-89b0-4925-8023-1871382bc75e)
 
 ##I had made Apps,Intro to Necleo, Help & Support, and Feedback similar template
-![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/d462a272-8cf6-450a-83ca-63eaf96211a1)
-
-
+![image](https://github.com/Humancodes/Submission_web_dev/assets/89327185/21b811e4-d805-495f-aa6b-11dfebc36d78)
 
